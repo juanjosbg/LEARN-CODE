@@ -55,5 +55,5 @@ Para reescribir la historia del repositorio y eliminar confirmaciones anteriores
 
 
 #### Resumen 
-![Git rm]([https://static.platzi.com/media/user_upload/git-reset%20%281%29-77a1294a-fb8b-43d0-aace-a517c1a05c2e.jpg](https://static.platzi.com/media/user_upload/4-90f7d57a-0d77-4afa-b69e-e45966c52a37.jpg))
+![Git rm](https://static.platzi.com/media/user_upload/4-90f7d57a-0d77-4afa-b69e-e45966c52a37.jpg)
 
