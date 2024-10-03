@@ -10,7 +10,17 @@
 - GITHUB
 - [REACT]
 - DATA BASE ([MYSQL] - [ORACLE] - [POSTGRESQL] - [MONGODB] )
+-------------------------------------------------------------
 
+---------------------------
+### 🛠EJERCICIOS PARA FRONT-END
+- https://exercism.org/tracks/javascript/exercises/lasagna
+- https://leetcode.com/studyplan/30-days-of-javascript/
+
+
+### 🛠 EJERCICIOS PARA BACK-END
+- https://learnsql.es/blog/19-ejercicios-practicos-de-postgresql-con-soluciones-detalladas/
+---------------------------
 
 ---------------------------
 ## Usage/GITHUB
@@ -48,11 +58,3 @@ Para reescribir la historia del repositorio y eliminar confirmaciones anteriores
 #### Resumen 
 ![Git rm]([https://static.platzi.com/media/user_upload/git-reset%20%281%29-77a1294a-fb8b-43d0-aace-a517c1a05c2e.jpg](https://static.platzi.com/media/user_upload/4-90f7d57a-0d77-4afa-b69e-e45966c52a37.jpg))
 
----------------------------
-### 🛠EJERCICIOS PARA FRONT-END
-- https://exercism.org/tracks/javascript/exercises/lasagna
-- https://leetcode.com/studyplan/30-days-of-javascript/
-
-
-### 🛠 EJERCICIOS PARA BACK-END
-- https://learnsql.es/blog/19-ejercicios-practicos-de-postgresql-con-soluciones-detalladas/ 
