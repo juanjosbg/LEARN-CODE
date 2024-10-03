@@ -37,12 +37,12 @@ Es importante tener en cuenta que git rm no puede usarse sin evaluarlo antes. De
 #### ¿Cuál es la diferencia entre git rm y git reset Head?
 La diferencia principal entre git rm y git reset HEAD radica en que git rm elimina archivos del repositorio y de la historia del proyecto, mientras que git reset saca los cambios del área de preparación y los mueve del espacio de trabajo, sin afectar la historia del repositorio.
 
-![Git rm]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://static.platzi.com/media/user_upload/git-reset%20%281%29-77a1294a-fb8b-43d0-aace-a517c1a05c2e.jpg))
+![Git rm](https://static.platzi.com/media/user_upload/git-reset%20%281%29-77a1294a-fb8b-43d0-aace-a517c1a05c2e.jpg)
 
 
 #### ¿Cuándo utilizar git reset en lugar de git revert?
 Para reescribir la historia del repositorio y eliminar confirmaciones anteriores, se utiliza git reset. Para deshacer cambios de confirmaciones anteriores de forma segura sin modificar la historia del repositorio, se emplea git revert.
-![Git rm]([[https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://static.platzi.com/media/user_upload/git-reset%20%281%29-77a1294a-fb8b-43d0-aace-a517c1a05c2e.jpg)](https://static.platzi.com/media/user_upload/lifecycle-674998bf-5510-4dc9-9840-edcbe86bf1e8.jpg))
+![Git rm](https://static.platzi.com/media/user_upload/lifecycle-674998bf-5510-4dc9-9840-edcbe86bf1e8.jpg)
 
 
 
