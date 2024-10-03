@@ -12,13 +12,12 @@
 - DATA BASE ([MYSQL] - [ORACLE] - [POSTGRESQL] - [MONGODB] )
 -------------------------------------------------------------
 
----------------------------
-### 🛠EJERCICIOS PARA FRONT-END
+#### 🛠EJERCICIOS PARA FRONT-END
 - https://exercism.org/tracks/javascript/exercises/lasagna
 - https://leetcode.com/studyplan/30-days-of-javascript/
 
 
-### 🛠 EJERCICIOS PARA BACK-END
+#### 🛠 EJERCICIOS PARA BACK-END
 - https://learnsql.es/blog/19-ejercicios-practicos-de-postgresql-con-soluciones-detalladas/
 ---------------------------
 
