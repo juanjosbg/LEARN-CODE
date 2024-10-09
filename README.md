@@ -12,6 +12,21 @@
 - DATA BASE ([MYSQL] - [ORACLE] - [POSTGRESQL] - [MONGODB] )
 -------------------------------------------------------------
 
+
+
+### Instrucciones adicionales:
+- El bloque de código HTML se escribe dentro de un bloque de código delimitado por tres backticks (\`\`\`).
+- La descripción de cómo el atajo `.div2>.class*4` genera el código HTML va justo después del ejemplo para que quede claro el propósito.
+- Al ejecutar este comando `.div2>.class*4` me crea esto
+`<div class="div2">
+  <div class="class"></div>
+  <div class="class"></div>
+  <div class="class"></div>
+  <div class="class"></div>
+</div>
+`
+
+
 #### 🛠EJERCICIOS PARA FRONT-END
 - https://exercism.org/tracks/javascript/exercises/lasagna
 - https://leetcode.com/studyplan/30-days-of-javascript/
